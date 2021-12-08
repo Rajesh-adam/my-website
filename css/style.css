@@ -1,0 +1,152 @@
+    body {
+        background-color: rgb(255, 255, 255);
+        color: #40514e;
+        margin: 0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+    
+    p {
+        line-height: 2;
+    }
+    
+    h1 {
+        margin: 50px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+        font-size: 5.625rem;
+        color: #66bfbf;
+    }
+    
+    h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        font-weight: 900;
+        color: #66bfbf;
+        padding-bottom: 10px;
+    }
+    
+    h3 {
+        font-family: 'Montserrat', sans-serif;
+        color: #11999e;
+    }
+    
+    .skill-row {
+        margin: 50px auto 150px auto;
+        width: 50%;
+        text-align: left;
+        line-height: 2;
+    }
+    
+    .margin-button {
+        margin-bottom: 50px;
+    }
+    
+    a {
+        color: #094042;
+        font-family: Montserrat;
+        margin: 10px 20px;
+        text-decoration: none;
+        font-weight: 900;
+    }
+    
+    a:hover {
+        color: #eaf6f6;
+    }
+    
+    .intro {
+        width: 30%;
+        margin: auto;
+    }
+    
+    .profile {
+        height: 200px;
+    }
+    
+    .flutter {
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+    }
+    
+    .web {
+        width: 35%;
+        float: right;
+        margin-left: 25px;
+    }
+    
+    .top-cloud {
+        height: 40px;
+        position: absolute;
+        right: 220px;
+        top: 70px;
+    }
+    
+    .bottom-cloud {
+        height: 50px;
+        position: absolute;
+        left: 200px;
+        bottom: 220px;
+    }
+    
+    .mountain {
+        height: 300px;
+    }
+    
+    hr {
+        border: dotted #eaf6f6 6px;
+        border-bottom: none;
+        width: 4%;
+        margin: 100px auto;
+    }
+    
+    .contact-me {
+        width: 40%;
+        margin: 0px auto 60px;
+    }
+    
+    .top-container {
+        background-color: #e4f9f5;
+        position: relative;
+        padding-top: 100px;
+    }
+    
+    .middle-container {
+        background-color: rgb(255, 255, 255);
+        margin: 100px 0;
+    }
+    
+    .bottom-container {
+        background-color: #66bfbf;
+        padding: 50px 0 20px;
+    }
+    
+    .pro {
+        text-decoration: underline;
+    }
+    
+    .btn {
+        background: #11cdd459;
+        background-image: linear-gradient(to left bottom, #149094b6, #119a9a6e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Montserrat;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        margin-top: 5px;
+        border: none;
+    }
+    
+    .btn:hover {
+        background: #30e3cb79;
+        background-image: linear-gradient(to bottom, #37c0abb2, #1cb39caf);
+        text-decoration: none;
+    }
+    
+    .footer-author {
+        color: #eaf6f6;
+        font-size: 0.75rem;
+        margin: 20px 0 0 0;
+    }
